@@ -56,12 +56,37 @@ org-latex-pdf-process '("latexmk -xelatex -bibtex -f %f")
 "\\RequirePackage{fix-cm}
 \\PassOptionsToPackage{svgnames}{xcolor}
 \\documentclass{article}
+\\usepackage{graphicx}
+\\usepackage{grffile}
+\\usepackage{longtable}
+\\usepackage{wrapfig}
+\\usepackage{rotating}
+\\usepackage[normalem]{ulem}
+\\usepackage{amsmath}
+\\usepackage{textcomp}
+\\usepackage{amssymb}
+\\usepackage{capt-of}
+\\usepackage{hyperref}
+\\usepackage{enumitem}
+\\usepackage[a4paper,left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \\usepackage[fontsize=13pt]{scrextend}
-\\usepackage{fontspec}
+\\usepackage{indentfirst}
 \\usepackage{polyglossia}
 \\setdefaultlanguage{vietnamese}
-\\usepackage{indentfirst}
+\\usepackage{fontspec}
 \\setmainfont{Times New Roman}
+%\\setromanfont{Times New Roman}
+%\\setsansfont[Scale=MatchLowercase]{Times New Roman}
+%\\setmonofont[Scale=MatchLowercase]{Arial}
+%\\usepackage{sectsty}
+%\\allsectionsfont{\\rmfamily}
+\\usepackage{listings}
+\\usepackage{amsthm}
+\\usepackage{xpatch}
+
+% Khoang cach 1cm dau doan
+\\setlength{\\parindent}{1cm}
+
 %\\setsansfont[Scale=MatchLowercase]{Times New Roman}
 %\\setmonofont[Scale=MatchLowercase]{Arial}
 %\\usepackage{sectsty}
@@ -126,13 +151,14 @@ keepspaces=true}
 \\normalsize\\@date\\par\\bigskip
 \\endgroup\\@afterindentfalse\\@afterheading}
 \\makeatother
-[DEFAULT-PACKAGES]
+
 \\hypersetup{linkcolor=Blue,urlcolor=DarkBlue,
 citecolor=DarkRed,colorlinks=true}
 \\AtBeginDocument{\\renewcommand{\\UrlFont}{\\ttfamily}}
-[PACKAGES]
-[EXTRA]
 \\setlength{\\parindent}{1cm}
+
+[NO-DEFAULT-PACKAGES]
+[NO-PACKAGES]
 "
 ("\\section{%s}" . "\\section*{%s}")
 ("\\subsection{%s}" . "\\subsection*{%s}")
@@ -140,9 +166,13 @@ citecolor=DarkRed,colorlinks=true}
 ("\\paragraph{%s}" . "\\paragraph*{%s}")
 ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))
 
+
+
 ("report" "\\documentclass[11pt]{report}
+
 [NO-DEFAULT-PACKAGES]
 [NO-PACKAGES]
+
 "
 ("\\part{%s}" . "\\part*{%s}")
 ("\\chapter{%s}" . "\\chapter*{%s}")
@@ -151,12 +181,16 @@ citecolor=DarkRed,colorlinks=true}
 ("\\subsubsection{%s}" . "\\subsubsection*{%s}"))
 
 
+
+
 ("book" "\\documentclass[11pt]{book}"
 ("\\part{%s}" . "\\part*{%s}")
 ("\\chapter{%s}" . "\\chapter*{%s}")
 ("\\section{%s}" . "\\section*{%s}")
 ("\\subsection{%s}" . "\\subsection*{%s}")
 ("\\subsubsection{%s}" . "\\subsubsection*{%s}"))))
+
+
 
 (add-to-list 'org-latex-classes
 '("simple"
@@ -205,7 +239,7 @@ citecolor=DarkRed,colorlinks=true}
 }
 \\makeatletter
 \\renewcommand{\\@makechapterhead}[1]{%
-\\vspace*{25\\p@}%
+%\\vspace*{25\\p@}%
 {\\customchapterfont
 \\centering
 \\vspace{5pt}% % thêm khoảng cách theo chiều dọc
