@@ -1,0 +1,14 @@
+#+begin_src elisp
+(expand-file-name
+             "ditaa.jar"
+      (file-name-as-directory
+            (expand-file-name
+                "scripts"
+               (file-name-as-directory
+                  (expand-file-name
+                      "../contrib"
+                     (file-name-directory (org-find-library-dir "org")))))))
+#+end_src
+
+#+RESULTS:
+: /usr/share/emacs/27.1/lisp/contrib/scripts/ditaa.jar

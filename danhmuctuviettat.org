@@ -1,0 +1,15 @@
+#+begin_export latex
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{longtable}{ |l @{\qquad} |l| }
+\hline
+CSDL   & Cơ sở dữ liệu  \\ \hline
+LTS  &  Long Term Support  \\ \hline
+PKI  &  Public Key Infrastructure \\ \hline
+API    & Application Programming Interface  \\ \hline
+CA    & Certificate Authority \\ \hline
+SDK    & Software Development Kit \\ \hline
+
+\end{longtable}
+\end{center}
+#+end_export

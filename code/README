@@ -1,0 +1,38 @@
+Hướng dẫn cấu hình trình soạn thảo emacs và latexmk
+
+Thư mục này gồm có:
+  .emacs
+  .emacs.d/elisp/code.el
+  .emacs.d/elisp/ditaa.org
+  
+1. Chép tất cả nội dung thư mục cấu hình vào HOME của username
+
+   - Trong linux, gõ lệnh:
+   	cp -r code/* ~/
+
+   - Với Windows 10, chép vào thư mục C:\Users\username\
+ 
+2. Dùng emacs, latexmk biên dịch từ org -> latex -> pdf
+
+   Yêu cầu:
+   - Trong Ubuntu, Debian, cài bộ texlive-full và font Times New Roman
+     Gõ lệnh:
+     	 sudo apt install texlive-full ttf-mscorefonts-installer -y
+
+   - Với Windows 10, tải file iso: texlive_dvd và mount file iso, chọn cài đặt texlive-full
+
+   Tiếp theo, vào emacs, mở file luanvan.org, gõ lệnh Ctrl_c Ctrl_e l o
+
+3. Tùy chọn: thư viện ditaa vẽ hình, python
+
+   a. Vẽ hình ditaa.jar 
+
+   - Dùng emacs, mở file .emacs.d/elisp/ditaa.org trong HOME của username, vào giữa đoạn code, gõ lệnh Ctrl_c Ctr_c
+   - Kết quả là đường dẫn của ditaa
+   - Tải file ditaa-version.jar và đổi tên thành ditaa.jar và chép vào thư mục kết quả
+
+   b. Python
+
+   - Tải và cài python3
+   - Dùng emacs, mở file cấu hình .emacs trong thư mục HOME cuả username
+   - Thay đổi thư mục khai báo python tương ứng với hệ điều hành Windows hoặc linux

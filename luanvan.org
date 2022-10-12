@@ -1,0 +1,29 @@
+#+TITLE: Org
+#+LATEX_CLASS: simple
+#+OPTIONS: toc:nil
+
+#+LATEX_HEADER: \usepackage[numbers,sort&compress]{natbib}
+
+#+begin_export latex
+ \renewcommand{\bibsection}{%                                                                                                                  
+  \chapter*{\bibname}}
+#+end_export
+
+#+INCLUDE: "trangbia.org"
+
+#+LATEX: \setstretch{1.2}
+#+LATEX: \pagenumbering{arabic}
+
+#+INCLUDE: "modau.org"
+#+INCLUDE: "cosolythuyet.org"
+#+INCLUDE: "xaydunghethong.org"
+#+INCLUDE: "ketquathucnghiem.org"
+#+INCLUDE: "ketluan.org"
+
+\nocite{*}
+
+# Tai lieu tham khao
+#+LATEX: \clearpage
+#+LATEX: \addcontentsline{toc}{chapter}{Tài liệu tham khảo}
+#+LATEX: \bibliographystyle{bib/vietnumeric}
+#+LATEX: \bibliography{bib/ref.bib}

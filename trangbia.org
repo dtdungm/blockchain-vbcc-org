@@ -1,0 +1,88 @@
+#+begin_export latex
+\begin{titlepage}
+        \parindent0pt
+
+        \pagestyle{empty}
+
+        \begin{center}
+                \textbf{\large \textsc{BỘ GIÁO DỤC VÀ ĐÀO TẠO \\TRƯỜNG ĐẠI HỌC CẦN THƠ}}
+                \vspace{30mm}
+                \\
+                \textbf{\large DƯƠNG TUẤN DŨNG}
+                \vspace{35mm}
+                \\
+                \textbf{\huge XÂY DỰNG HỆ THỐNG QUẢN LÝ VĂN BẰNG CHỨNG CHỈ SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN}
+                \vspace{45mm}
+                \\
+                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH \ldots  \\ MÃ SỐ \ldots}
+                \vspace{60mm}
+                \\
+                \textbf {\large NĂM 2022}
+        \end{center}
+
+        \clearpage
+        \begin{center}
+                \textbf{\large \textsc{BỘ GIÁO DỤC VÀ ĐÀO TẠO \\TRƯỜNG ĐẠI HỌC CẦN THƠ}}
+                \vspace{30mm}
+                \\
+                \textbf{\large DƯƠNG TUẤN DŨNG}
+                \\
+                \textbf{\large{MÃ SỐ HV: M3718005}}
+                \vspace{35mm}
+                \\
+                \textbf{\huge XÂY DỰNG HỆ THỐNG QUẢN LÝ VĂN BẰNG CHỨNG CHỈ SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN}
+                \vspace{45mm}
+                \\
+                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH \ldots  \\ MÃ SỐ \ldots}
+                \\
+		\vspace{20mm}
+		
+                \textbf{\large{NGƯỜI HƯỚNG DẪN} }
+		\\
+		\textbf{\large{TS. NGUYỄN VĂN HÒA} }
+		\\
+		\vspace{30mm}
+                
+                \textbf {\large NĂM 2022}
+        \end{center}
+\end{titlepage}
+#+end_export
+
+#+LATEX: \pagenumbering{roman}
+
+#+LATEX: \chapter*{Trang xác nhận của hội đồng}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Trang xác nhận của hội đồng}
+#+INCLUDE: "trangxacnhancuahoidong.org"
+
+#+LATEX: \chapter*{Lời cảm ơn}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Lời cảm ơn}
+#+INCLUDE: "loicamon.org"
+
+#+LATEX: \chapter*{Tóm tắt}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Tóm tắt}
+#+INCLUDE: "tomtat.org"
+
+#+LATEX: \chapter*{Abstract}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Abstract}
+#+INCLUDE: "abstract.org"
+
+#+LATEX: \chapter*{Lời cam đoan}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Lời cam đoan}
+#+INCLUDE: "loicamdoan.org"
+
+#+LATEX: \clearpage
+#+LATEX: \tableofcontents
+#+LATEX: \addcontentsline{toc}{chapter}{\contentsname}
+
+#+LATEX: \clearpage
+#+LATEX: \listoftables
+
+#+LATEX: \clearpage
+#+LATEX: \listoffigures
+
+#+LATEX: \clearpage
+
+#+LATEX: \chapter*{Danh mục từ viết tắt}
+#+COMMENT: #+LATEX: \addcontentsline{toc}{chapter}{Danh mục từ viết tắt}
+#+INCLUDE: "danhmuctuviettat.org"
+#+LATEX: \clearpage
