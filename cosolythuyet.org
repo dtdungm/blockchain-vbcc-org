@@ -1,35 +1,39 @@
 * Cơ sở lý thuyết
 ** Quản lý văn bằng chứng chỉ
-*** Giới thiệu chung
-Hàng năm có hàng nghìn các loại văn bằng, chứng chỉ được cấp phát phục vụ cho mục đích của các học viên.
-Văn bằng trong quá trình làm việc và làm thủ tục hồ sơ liên quan khác có giá trị lớn, ảnh hưởng nhiều đến người sở hữu trong tương lai.
-Chứng chỉ tại nhiều nơi là điều kiện thực hiện các công việc khác, có tính quyết định và ảnh hưởng tới lĩnh vực khác.
-Quản lý văn bằng chứng chỉ đòi hỏi quy trình thực hiện nghiêm ngặt, tránh những đối tượng lợi dụng kẽ hở để thực hiện hành vi trái phép.
-Một số nội dung văn bản pháp luật nhà nước được ban hành nhằm quy định việc quản lý văn bằng chứng chỉ, đảm bảo quyền lợi, trách nhiệm của các tổ chức và cá nhân như sau:
+*** Giới thiệu
+Xã hội ngày càng phát triển, nhu cầu học tập nâng cao trình độ đáp ứng cho các lĩnh vực lao động xã hội ngày càng tăng.
+Hàng năm có hàng nghìn các loại văn bằng, chứng chỉ được cấp phát để công nhận trình độ, năng lực của các học viên.
+Ngoài ra, văn bằng còn dùng trong quá trình ứng viên tìm việc và làm thủ tục hồ sơ liên quan khác, ảnh hưởng nhiều đến người sở hữu trong tương lai. Trong nhiều ngành nghề, chứng chỉ là điều kiện để thực hiện công việc, có tính quyết định và ảnh hưởng tới nhiều lĩnh vực khác.
+Do đó, quản lý văn bằng chứng chỉ đòi hỏi quy trình thực hiện nghiêm ngặt, tránh những trường hợp lợi dụng kẽ hở để thực hiện hành vi trái phép.
 
-- Tại Điều 12 Luật giáo dục 2019 quy định “Văn bằng của hệ thống giáo dục quốc dân được cấp cho người học sau khi tốt nghiệp cấp học hoặc sau khi hoàn thành chương trình giáo dục, đạt chuẩn đầu ra của trình độ tương ứng theo quy định của Luật giáo dục. Văn bằng của hệ thống giáo dục quốc dân gồm bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp, bằng tốt nghiệp cao đẳng, bằng cử nhân, bằng thạc sĩ, bằng tiến sĩ và văn bằng trình độ tương đương. Chứng chỉ của hệ thống giáo dục quốc dân được cấp cho người học để xác nhận kết quả học tập sau khi được đào tạo, bồi dưỡng nâng cao trình độ học vấn, nghề nghiệp hoặc cấp cho người học dự thi lấy chứng chỉ theo quy định.”
+Một số văn bản pháp luật được ban hành nhằm quy định việc quản lý văn bằng chứng chỉ, đảm bảo quyền lợi, trách nhiệm của các tổ chức và cá nhân như sau:
 
-- Tại Điều 3 Thông tư 21/2019/TT-BGDĐT quy định về việc ban hành Quy chế quản lý văn bằng, chứng chỉ của hệ thống giáo dục quốc dân, quy định việc phân cấp và giao quyền tự chủ, tự chịu trách nhiệm trong quản lý văn bằng, chứng chỉ. Cơ sở giáo dục đại học, cơ sở đào tạo giáo viên tự chủ và tự chịu trách nhiệm trong việc quản lý, cấp phát văn bằng, chứng chỉ theo quy định của pháp luật và quy định của Bộ trưởng Bộ Giáo dục và Đào tạo.
+- Điều 12 Luật giáo dục 2019 quy định “Văn bằng của hệ thống giáo dục quốc dân được cấp cho người học sau khi tốt nghiệp cấp học hoặc sau khi hoàn thành chương trình giáo dục, đạt chuẩn đầu ra của trình độ tương ứng theo quy định của Luật giáo dục. Văn bằng của hệ thống giáo dục quốc dân gồm bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp, bằng tốt nghiệp cao đẳng, bằng cử nhân, bằng thạc sĩ, bằng tiến sĩ và văn bằng trình độ tương đương. Chứng chỉ của hệ thống giáo dục quốc dân được cấp cho người học để xác nhận kết quả học tập sau khi được đào tạo, bồi dưỡng nâng cao trình độ học vấn, nghề nghiệp hoặc cấp cho người học dự thi lấy chứng chỉ theo quy định.”
 
-- Tại Điều 5 Nghị định số 30/2020/NĐ-CP quy định về hoạt động văn thư lưu trữ, giá trị pháp lý về hồ sơ điện tử, văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật có giá trị pháp lý như bản gốc văn bản giấy.
+- Điều 3 Thông tư 21/2019/TT-BGDĐT quy định về việc ban hành Quy chế quản lý văn bằng, chứng chỉ của hệ thống giáo dục quốc dân, quy định việc phân cấp và giao quyền tự chủ, tự chịu trách nhiệm trong quản lý văn bằng, chứng chỉ. Cơ sở giáo dục đại học, cơ sở đào tạo giáo viên tự chủ và tự chịu trách nhiệm trong việc quản lý, cấp phát văn bằng, chứng chỉ theo quy định của pháp luật và quy định của Bộ trưởng Bộ Giáo dục và Đào tạo.
 
-Từ năm học 2020-2021, Bộ Giáo dục và Đào tạo đã triển khai ứng dụng công nghệ để lưu trữ văn bằng quốc qua. Hệ thống ứng dụng công nghệ blockchain được triển khai bởi nhà phát triển công nghệ TomoChain. Hiệu quả của hệ thống được khẳng định là đảm bảo tính minh bạch, an toàn và tiết kiệm xã hội. Các đơn vị đào tạo thuộc Bộ Giáo dục và Đào tạo sẽ đưa dữ liệu văn bằng được cấp bởi các đơn vị vào hệ thống lưu trữ văn bằng quốc gia. Bên cạnh đó hệ thống còn đáp ứng những yêu cầu truy xuất cho các bên có nhu cầu và được xã hội hoá.
+- Điều 5 Nghị định số 30/2020/NĐ-CP quy định về hoạt động văn thư lưu trữ, giá trị pháp lý về hồ sơ điện tử, văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật có giá trị pháp lý như bản gốc văn bản giấy.
 
-Hiện nay, Học viện Công nghệ Bưu chính Viễn thông đang triển khai thí điểm Cổng thông tin xác thực văn bằng chứng chỉ trên môi trường số với nền tảng ứng dụng công nghệ Blockchain và chữ ký số. Hệ thống phần mềm đảm bảo công khai, minh bạch, tin cậy trong công tác tra cứu và xác thực văn bằng, chứng chỉ; hướng tới việc cấp văn bằng, chứng chỉ số trong tương lai đáp ứng theo Nghị định số 30/2020/NĐ-CP. Giải pháp có thể chống lại những hành vi làm giả chứng chỉ, hoặc cấp chứng chỉ không đúng quy định làm giả hồ sơ gốc. Hệ thống giúp cho các cơ quan, tổ chức, cá nhân trong quá trình kiểm tra xác minh văn bằng chứng chỉ khi tuyển dụng giảm nhiều thời gian, sức lực so với cách truyền thống.
+- Nghị định Số 45/2020/NĐ-CP quy định thủ tục hành chính trên môi trường điện tử. Thủ tục hồ sơ điện tử rất tiết kiệm thời gian và thuận tiện hơn hình thức còn lại nên các giao dịch điện tử tăng nhanh trong những năm gần đây: thanh toán trực tuyến, nộp thuế qua mạng, hóa đơn điện tử, dịch vụ công trực tuyến.
+  
+Từ năm học 2020-2021, Bộ Giáo dục và Đào tạo đã triển khai ứng dụng công nghệ để lưu trữ văn bằng quốc gia. Hệ thống ứng dụng công nghệ blockchain được triển khai bởi nhà phát triển công nghệ TomoChain. Hiệu quả của hệ thống được khẳng định là đảm bảo tính minh bạch, an toàn và tiết kiệm xã hội. Các đơn vị đào tạo thuộc Bộ Giáo dục và Đào tạo sẽ đưa dữ liệu văn bằng được cấp bởi các đơn vị vào hệ thống lưu trữ văn bằng quốc gia. Bên cạnh đó hệ thống còn đáp ứng những yêu cầu truy xuất cho các bên có nhu cầu và được xã hội hoá.
 
-Trung tâm Tin học Trường Đại học An Giang là đơn vị trực thuộc Trường Đại học An Giang. Trung tâm thực hiện quy trình tổ chức thi và cấp chứng chỉ theo Quy chế tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin ban hành theo Quyết định 04/QĐ-TTTH ngày 27/2/2017 của Giám đốc Trung tâm Tin học. Việc quản lý các dữ liệu chứng chỉ do đơn vị cấp cần phải đảm bảo tính chính xác. Các thông tin về chứng chỉ có thể thay đổi một số điều, nên cần phải có biện pháp thay đổi kịp thời, chính xác. Ngoài ra, trong giao dịch giữa cơ quan quản lý với đơn vị, giữa đơn vị và cá nhân, đồng thời sử dụng hồ sơ điện tử và hồ sơ giấy. Phạm vi nghiên cứu của đề tài chỉ tập trung vào hình thức hồ sơ giấy như phôi chứng chỉ được in thông tin và sổ gốc cấp chứng chỉ.
+Học viện Công nghệ Bưu chính Viễn thông đang triển khai thí điểm Cổng thông tin xác thực văn bằng chứng chỉ trên môi trường số với nền tảng ứng dụng công nghệ Blockchain và chữ ký số. Hệ thống phần mềm đảm bảo công khai, minh bạch, tin cậy trong công tác tra cứu và xác thực văn bằng, chứng chỉ; hướng tới việc cấp văn bằng, chứng chỉ số trong tương lai đáp ứng theo Nghị định số 30/2020/NĐ-CP. Giải pháp có thể chống lại những hành vi làm giả chứng chỉ, hoặc cấp chứng chỉ không đúng quy định làm giả hồ sơ gốc. Hệ thống giúp cho các cơ quan, tổ chức, cá nhân trong quá trình kiểm tra xác minh văn bằng chứng chỉ khi tuyển dụng giảm nhiều thời gian, sức lực so với cách truyền thống.
 
-Theo đó, quản lý văn bằng chứng chỉ tại Trung tâm là triển khai các ban hành, phổ biến thông tin, tiếp nhận yêu cầu, hướng dẫn thực hiện, lưu giữ hồ sơ được quy định theo Quy chế tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin ban hành theo Quyết định 04/QĐ-TTTH ngày 27/2/2017, bao gồm các nội dung như sau:
+Trung tâm Tin học Trường Đại học An Giang là đơn vị trực thuộc Trường Đại học An Giang. Từ năm 2017, Trung tâm thực hiện tổ chức thi và cấp chứng chỉ theo Quy chế tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin ban hành theo Quyết định 04/QĐ-TTTH ngày 27/2/2017 của Giám đốc Trung tâm Tin học (Quy chế). Việc quản lý các dữ liệu chứng chỉ do đơn vị cấp cần phải đảm bảo tính chính xác. Giao dịch giữa các đơn vị trong và ngoài tổ chức và giữa đơn vị với cá nhân phổ biến cả hai hình thức là hồ sơ điện tử và hồ sơ sơ giấy. Tuy nhiên, phạm vi nghiên cứu của đề tài chỉ tập trung vào hình thức hồ sơ giấy phục vụ công tác tổ chức thi và cấp chứng chỉ như công văn, quyết định, phôi chứng chỉ và sổ gốc cấp chứng chỉ.
 
-1. Đề nghị cấp phôi chứng chỉ
-2. Tiếp nhận và quản lý phôi chứng chỉ
-3. Kiểm tra thông tin học viên được cấp chứng chỉ
+Theo đó, quản lý văn bằng chứng chỉ tại Trung tâm là triển khai các ban hành, phổ biến thông tin, tiếp nhận yêu cầu, thực hiện và lưu giữ hồ sơ được quy định tại Quy chế tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin ban hành theo Quyết định 04/QĐ-TTTH ngày 27/2/2017, bao gồm các nội dung như sau:
+
+1. Kiểm tra thông tin học viên được cấp chứng chỉ
+2. Gửi công văn đề nghị cấp phôi chứng chỉ
+3. Tiếp nhận và quản lý phôi chứng chỉ
 4. Cấp mới chứng chỉ
-5. Cấp phát chứng chỉ
-6. Bảo quản chứng chỉ
-7. Xác minh chứng chỉ
-8. Cấp giấy xác nhận được cấp chứng chỉ
-9. Thu hồi chứng chỉ
+5. Lập sổ gốc
+6. Cấp phát chứng chỉ
+7. Bảo quản chứng chỉ
+8. Xác minh chứng chỉ
+9. Cấp giấy xác nhận kết quả thi đạt
+10. Thu hồi, hủy bỏ chứng chỉ
 
 Trong phạm vi khả năng giới hạn, đề tài tập trung nghiên cứu vào việc lưu trữ thông tin văn bằng chứng chỉ dùng công nghệ blockchain để tăng tính bảo mật và chắc chắn cho việc cấp phát các văn bằng, chứng chỉ cho học viên sử dụng. Dữ liệu đầu vào của hệ thống được lấy từ chương trình quản lý học, quản lý thi đang đáp ứng tốt một số nghiệp vụ quản lý hiện nay. Những nghiệp vụ được nghiên cứu như sau:
 
@@ -39,30 +43,31 @@ Trong phạm vi khả năng giới hạn, đề tài tập trung nghiên cứu v
   
 *** Cấp mới chứng chỉ
 
-Thí sinh thi đạt sẽ được cấp chứng chỉ. Thông tin ghi trên chứng chỉ được quy định theo Thông tư 21/2019/TT-BGDĐT
+Thí sinh thi đạt sẽ được cấp chứng chỉ theo quy định tại Điều 16 của Quy chế.
+
+Điều kiện công nhận thí sinh thi đạt quy định tại Điều 13 của Quy chế.
+
+Thông tin ghi trên chứng chỉ được quy định theo Thông tư 21/2019/TT-BGDĐT.
 
 *** Cấp phát chứng chỉ
 
-1. Khi nhận chứng chỉ, sinh viên đem theo thẻ sinh viên hoặc chứng minh nhân dân, hoặc giấy tờ có ảnh.
-2. Nhân viên dựa vào hệ thống quản lý chứng chỉ và sổ gốc cấp chứng chỉ để kiểm tra thông tin của họ.
-3. Nếu thông tin thí sinh trùng với sổ gốc cấp chứng chỉ thì nhân viên sẽ ghi lại thông tin người nhận vào sổ gốc cấp chứng chỉ.
-4. Nhân viên phát chứng chỉ cho người nhận. Cuối cùng người nhận ký tên xác nhận thông tin đó.
+Việc cấp phát chứng chỉ được quy định tại Điều 17 của Quy chế và Điều 19 Thông tư 21/2019/TT-BGDĐT. Sổ gốc cấp văn bằng, chứng chỉ phải được ghi chính xác, đánh số trang, đóng dấu giáp lai, không được tẩy xóa, đảm bảo quản lý chặt chẽ và lưu trữ vĩnh viễn.
 
-Cách ghi sổ gốc theo  Thông tư 21/2019/TT-BGDĐT
+1. Thí sinh thi đạt sẽ được cấp chứng chỉ. Sinh viên trực tiếp nhận và đem theo thẻ sinh viên hoặc chứng minh nhân dân, căn cước công dân hoặc giấy tờ có ảnh.
+2. Nhân viên dựa vào hệ thống quản lý và sổ gốc cấp chứng chỉ để kiểm tra thông tin chứng chỉ.
+3. Nếu thông tin sinh viên trùng khớp trong sổ gốc cấp chứng chỉ thì nhân viên sẽ ghi lại thông tin người nhận vào sổ gốc cấp chứng chỉ.
+4. Nhân viên phát chứng chỉ cho người nhận.
+5. Sinh viên ký tên xác nhận thông tin đó.
 
-Sổ gốc cấp văn bằng, chứng chỉ phải được ghi chính xác, đánh số trang, đóng dấu giáp lai, không được tẩy xóa, đảm bảo quản lý chặt chẽ và lưu trữ vĩnh viễn.
+*** Xác minh chứng chỉ
 
-*** Xác minh văn bằng chứng chỉ
+Việc xác minh văn bằng, chứng chỉ là một trong những giai đoạn cần thực hiện để phát hành văn bản có hiệu lực. Quy trình xác minh văn bằng, chứng chỉ là một dạng thủ tục hành chính, cơ sở đào tạo xác minh thông tin chứng chỉ với sổ gốc, kết quả thủ tục là đơn vị yêu cầu xác minh sẽ nhận được công văn trả lời kết quả xác minh (không phải là khẳng định chứng chỉ có giá trị hay không). Quy trình này trải qua 5 bước thực hiện chính như sau:
 
-Việc xác minh văn bằng, chứng chỉ là một trong những giai đoạn cần thực hiện để phát hành văn bằng có hiệu lực.
-
-Quy trình xác minh văn bằng, chứng chỉ là một dạng thủ tục hành chính, cơ sở giáo dục xác minh thông tin chứng chỉ với sổ gốc, kết quả thủ tục là đơn vị yêu cầu xác minh sẽ nhận được công văn trả lời kết quả xác minh (không phải là khẳng định chứng chỉ có giá trị hay không). Quy trình này trải qua 5 bước thực hiện chính như sau:
-
-1) Đơn vị có nhu cầu xác minh các văn bằng hoặc chứng chỉ cần gửi công văn đến cơ sở đào tạo. Đơn vị có thể cử người có giấy giới thiệu đến trực tiếp phòng ban để bắt đầu làm thủ tục xác minh. Trong quá trình gửi công văn, đơn vị phải chịu trách nhiệm với hồ sơ được bàn giao.
-2) Người phụ trách tại cơ sở tổ chức thi khi tiếp nhận hồ sơ gửi đến sẽ tiến hành kiểm tra lại dữ liệu về sổ gốc mà đơn vị đăng ký từ trước. Xác nhận người nhận chứng chỉ có trong danh sách thi, đã đạt kết quả và có thông tin chứng chỉ tại sổ gốc.
-3) Người phụ trách kiểm tra xác nhận trong sổ gốc cần phải soạn công văn, đề nghị lãnh đạo cơ quan chủ quản phê duyệt. Hồ sơ sẽ được lưu tại bên phụ trách kiểm tra, chờ cơ quan cấp trên cấp duyệt.
-4) Viên chức tiếp nhận công văn của người phụ trách xác minh, đánh giá và quyết định ký duyệt và sau đó gửi lại cho bên phụ trách. Các công văn cần xác minh của người yêu cầu đã được chấp nhận và được chuyển lại cho bên quản lý tổ chức thi.
-5) Người phụ trách khi nhận được công văn đã ký duyệt của cấp trên sẽ tiến hành đóng dấu đỏ của cơ quan, hoàn tất thủ tục hành chính, xác minh văn bằng của người yêu cầu. Cuối cùng, người yêu cầu sẽ đến nhận lại công văn và sử dụng trong mục đích cần thiết.
+1. Đơn vị có nhu cầu xác minh các văn bằng, chứng chỉ cần gửi công văn đến cơ sở đào tạo. Đơn vị có thể cử người có giấy giới thiệu đến trực tiếp phòng ban để bắt đầu làm thủ tục xác minh. Trong quá trình gửi công văn, đơn vị phải chịu trách nhiệm với hồ sơ được bàn giao.
+2. Người phụ trách xác minh tại cơ sở tổ chức thi khi tiếp nhận hồ sơ gửi đến sẽ tiến hành kiểm tra lại hồ sơ, và thông tin trong sổ gốc được lập từ trước. Xác nhận người nhận chứng chỉ có trong danh sách thi, đã đạt kết quả và có thông tin chứng chỉ trong sổ gốc.
+3. Người phụ trách kiểm tra xác nhận trong sổ gốc xong cần phải soạn công văn, và đề nghị lãnh đạo cơ quan chủ quản phê duyệt. Hồ sơ sẽ được lưu tại bên phụ trách kiểm tra, chờ cơ quan cấp trên cấp duyệt.
+4. Viên chức tiếp nhận công văn của người phụ trách xác minh sẽ kiểm tra, quyết định ký duyệt và sau đó gửi lại cho bên phụ trách xác minh. Các công văn cần xác minh của người yêu cầu đã được chấp nhận và được chuyển lại cho bên tổ chức thi.
+5. Người phụ trách xác minh khi nhận được công văn đã ký duyệt của cấp trên sẽ tiến hành đóng dấu đỏ của cơ quan, hoàn tất thủ tục hành chính, xác minh văn bằng của người yêu cầu. Cuối cùng, người yêu cầu sẽ đến nhận lại công văn và sử dụng trong mục đích cần thiết.
 
 ** Công nghệ Blockchain
 Công nghệ Blockchain có bản thiết kế đầu tiên vào năm 2008 bởi Satoshi Nakamoto và trở thành thành phần cốt lõi của tiền điện tử Bitcoin \cite{nakamoto2008bitcoin}. Công nghệ này đóng vai trò như một quyển sổ cái ghi lại tất cả giao dịch công khai trên hệ thống máy tính ngang hàng theo phương thức mã hoá các giao dịch. Từ đó, các giao dịch phát sinh mà không cần các tổ chức trung gian, tạo ra giải pháp cho các ứng dụng cần sự minh bạch, tính trách nhiệm, bảo mật cao và giảm thiểu các quy trình thủ tục phức tạp.
@@ -74,7 +79,7 @@ Hiện nay, hệ thống mạng blockchain được chia làm 3 nhóm. Nhóm h�
 Bện cạnh những mặt tích cực mà công nghệ blockchain mang lại, công nghệ này còn tồn tại một số hạn chế như sau:
 
 ** Hyperledger Fabric
-*** Giới thiệu Hyperledger Fabric
+*** Giới thiệu
 Hyperledger Fabric là một trong năm framework về blockchain nằm trong chiến lược Hyperledger Umbrella của Linux Foundation gồm: Hyperledger Indy, Hyperledger Fabric, Hyperledger Iroha, Hyperledger Sawtooth, Hyperledger Burror.
 
 Hyperledger Fabric là một nền tảng công nghệ mã nguồn mở dưới sự cố vấn của IBM, được thiết kế để sử dụng trong môi trường doanh nghiệp, cung cấp nhiều tính năng nổi trội với các nền tảng blockchain đang tồn tại. Hyperledger Fabric có kiến trúc mô-đun linh hoạt và tối ưu hoá cho nhiều ứng dụng trong các lĩnh vực như: tài chính, bảo hiểm, y tế, chuỗi cung ứng, chính phủ... 

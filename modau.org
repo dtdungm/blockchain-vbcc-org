@@ -5,7 +5,7 @@ Hiện nay, hầu hết các cơ sở giáo dục rất quan tâm đến hệ th
 Bên cạnh những hệ thống thông tin quản lý đào tạo, quản lý thi, thì hệ thống tra cứu văn bằng chứng chỉ, bắt buộc công khai theo quy định tại Điều 2 thông tư số 21/2019/TT-BGDĐT.
 Một số yêu cầu của giải pháp tin học hóa nghiệp vụ, số hóa dữ liệu là đảm bảo nguyên tắc an toàn thông tin của các cá nhân, tổ chức tham gia theo quy định tại Điều 24 luật số 67/2006/QH11.
 
-Tuy nhiên, trong môi trường thực tế người ta chia sẻ thông tin qua những phương tiện truyền thông như mạng internet, trạm thông tin di động, wifi. Những mạng này rất rủi ro cho an toàn thông tin bởi vì những người không được phép có thể dùng cách tấn công nghe lén để xâm phạm thông tin \cite{phạmnguyênkhang2013}. Ngoài ra, thông tin và các thành phần trong mạng là mục tiêu của các cuộc tấn công mạng \cite{dothanhnghi2018}.
+Tuy nhiên, trong thực tế phương tiện để chia sẻ thông tin là những mạng truyền thông như mạng internet, trạm thông tin di động, wifi. Những mạng này rất rủi ro cho an toàn thông tin bởi vì những người không được phép có thể dùng cách tấn công nghe lén để xâm phạm thông tin \cite{phạmnguyênkhang2013}. Ngoài ra, thông tin và các thành phần trong mạng là mục tiêu của các cuộc tấn công mạng \cite{dothanhnghi2018}.
 
 Từ năm 2008, công nghệ chuỗi khối (blockchain technology) với Bitcoin \cite{nakamoto2008bitcoin} là một minh họa, đã đánh dấu sự ra đời cách thức lưu trữ và chuyển giao thông tin hoàn toàn mới.
 Một thuộc tính của công nghệ chuỗi khối là sự đồng thuận giữa các thành phần không tin cậy - cùng tham gia vào một hệ thống mạng không tập trung. Nhờ đó, công nghệ này được rất nhiều nghiên cứu \cite{10.1145/3190508.3190538, ANTWI2021100012, fair2019, 8246573, Fang2020} để hoàn thiện về cơ chế và ứng dụng trong các giải pháp xử lý, truyền tải an toàn thông tin.
@@ -68,4 +68,4 @@ Ngoài việc triển khai với bài toán cụ thể tại Trung tâm Tin họ
 
 Công nghệ chuỗi khối có khả năng xử lý và chia sẻ thông tin, dữ liệu minh bạch theo thời gian có độ an toàn cao. Các nghiên cứu về công nghệ chuỗi khối có thể mở rộng ứng dụng trong nhiều lĩnh vực như nông nghiệp, y tế, ngân hàng, vận tải.
 ** Tiểu kết chương 1
-Chương 1 trình bày các mục tiêu của hệ thống cần đạt được trong quá trình nghiên cứu và thực hiện. Chương 2 sẽ tập trung giới thiệu cơ sở lý thuyết đặc tính an toàn, bảo mật của công nghệ chuỗi khối, và mô hình mạng thử nghiệm Hyperledger Fabric.
+Chương 1 trình bày các mục tiêu của hệ thống cần đạt được trong quá trình nghiên cứu và thực hiện. Chương 2 sẽ tập trung giới thiệu cơ sở lý thuyết quản lý văn bằng chứng chỉ, đặc tính an toàn, bảo mật của công nghệ chuỗi khối, và mô hình mạng thử nghiệm Hyperledger Fabric.
