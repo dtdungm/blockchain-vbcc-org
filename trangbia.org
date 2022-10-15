@@ -14,7 +14,7 @@
                 \textbf{\huge XÂY DỰNG HỆ THỐNG QUẢN LÝ VĂN BẰNG CHỨNG CHỈ SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN}
                 \vspace{45mm}
                 \\
-                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH \ldots  \\ MÃ SỐ \ldots}
+                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH KHOA HỌC MÁY TÍNH  \\ MÃ SỐ 8480101}
                 \vspace{60mm}
                 \\
                 \textbf {\large NĂM 2022}
@@ -33,7 +33,7 @@
                 \textbf{\huge XÂY DỰNG HỆ THỐNG QUẢN LÝ VĂN BẰNG CHỨNG CHỈ SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN}
                 \vspace{45mm}
                 \\
-                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH \ldots  \\ MÃ SỐ \ldots}
+                \textbf{\large LUẬN VĂN THẠC SĨ \\ NGÀNH KHOA HỌC MÁY TÍNH  \\ MÃ SỐ 8480101}
                 \\
 		\vspace{20mm}
 		
